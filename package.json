@@ -9,10 +9,6 @@
   "engines": {
     "node": ">=16.0.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com/MrSwitch/proxy-server"
-  },
   "dependencies": {
     "lodash": "^3.6.0"
   },
